@@ -1,1 +1,4 @@
-# Lista-2-Java-EX4
+EmpregadoTeste->EX2
+FaturaTeste->EX1
+Loja->EX4
+PessoaTeste->EX3
